@@ -23,14 +23,14 @@ Simple decentralized application based on Solidity and Web3 that swap a simple p
 
 ```
 $ git clone https://github.com/photoday0914/dapp_uniswap.git
-$ cd uniswap-v2-defi-app
+$ cd dapp_uniswap
 $ git checkout starter
 ```
 
 ### 2. Install Dependencies:
 
 ```
-$ cd uniswap-v2-defi-app
+$ cd dapp_uniswap
 $ npm install
 ```
 
